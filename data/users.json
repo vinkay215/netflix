@@ -1,0 +1,24 @@
+{
+    "profiles": [
+        {
+            "id": "1",
+            "name": "Saúl",
+            "avatar": "https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABfnZLmfujuhA1nXtX4UoO77cH0CJNAFRN7-s4R92qiPUQqUgHh_Q_YscfkNEZNVc_0UAyoytd8gY4USUO7VSbKB0Zl806PdA3J6F.png?r=f4c"
+        },
+        {
+            "id": "2",
+            "name": "Primeagen",
+            "avatar": "https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABUA9QLiVGC4PuLGarV3oGLJhrOoIewsw54mdcsVtROUf1TRm69Wzoio5Ml2Vc09n4_MvJMUpo_FzjkVbnPBrFaZLHcKVgTt9lcBZ.png?r=508"
+        },
+        {
+            "id": "3",
+            "name": "Theo",
+            "avatar": "https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABZumJ3wvSKM7od-r3UjhVF9j3yteWlQYA-51F3SNoI682llhul1Xf_CUkMnfP_17Md2lpOOhbwHeGufvo8kOTjptoS_bcwtniHKz.png?r=e6e"
+        },
+        {
+            "id": "4",
+            "name": "Kids",
+            "avatar": "https://occ-0-2430-2433.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABfBs_RmrXu6XN02hkLZzUgrqSOMFIx6LUk_-T4dG4Vgr7rwnmYyejpUUebFqmVDbnrwxESqJu6ml0q-G6KQVzRqKA42KmNEPkDmn.png?r=f55"
+        }
+    ]
+}
